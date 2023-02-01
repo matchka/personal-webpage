@@ -1,0 +1,20 @@
+#Top { 
+    border: dotted 3px;
+}
+
+#To { 
+    border: dotted 3px
+}
+
+#FavAuth { 
+    border: dotted 3px
+}
+
+h1 { 
+    display: block; 
+    background-color: white;
+}
+
+html { 
+    font-family: 'Poppins', sans-serif;
+}

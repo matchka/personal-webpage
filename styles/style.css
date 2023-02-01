@@ -1,0 +1,24 @@
+h1 { 
+    text-align: center; 
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+p { 
+    text-align: center;
+    font-size: large;
+}
+
+html { 
+    background-color: #fb7973;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+ 
+    
+}
+
+#img { 
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+}
